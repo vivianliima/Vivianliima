@@ -81,7 +81,9 @@ Entre outros... ✨
 ## 📫 Contato
 
 💜 LinkedIn: https://www.linkedin.com/in/vivianliima/
+
 📧 Email: Vivian_Liima@Outlook.com
+
 
 <!-- Pacman -->
 <picture>
@@ -89,6 +91,7 @@ Entre outros... ✨
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
 </picture>
+
 
 <p align="center">
 Obrigada por visitar meu cantinho tech 🐈‍⬛💜
