@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=c77dff&size=24&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+cantinho+tech;Estudante+de+tecnologia;Foco+em+Software+Testing+(QA);Aprendendo+um+passo+de+cada+vez+💜"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=c77dff&size=24&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+cantinho+tech;Estudante+de+tecnologia;Aprendendo+um+passo+de+cada+vez+💜"/>
 </p>
 
 <p align="center">
