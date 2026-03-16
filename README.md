@@ -66,17 +66,11 @@ Entre outros... ✨
 🌐 HTML, CSS e JavaScript  
 🧪 Conceitos de testes de software  
 
-<p align="center">
-🌙 ✧ 💜 ✧ 🌙
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/pacman-contribution-graph.svg">
-</p>
 
 <p align="center">
 🌙 ✧ 💜 ✧ 🌙
 </p>
+
 
 ## 📫 Contato
 
