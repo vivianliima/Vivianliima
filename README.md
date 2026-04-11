@@ -65,7 +65,7 @@ Entre outros... ✨
 🐍 Fundamentos de Python  
 🌐 HTML, CSS e JavaScript  
 🧪 Conceitos de testes de software  
-
+💾 Banco de Dados SQL (Básico)
 
 <p align="center">
 🌙 ✧ 💜 ✧ 🌙
